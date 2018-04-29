@@ -13,4 +13,4 @@ This script can covert several scripts of Uyghur language:
 ## Screen shots
 ![screen-shot 1](./screenshots/1.png)
 
-![screen-shot 2](./screenshots/21.png)
+![screen-shot 2](./screenshots/2.png)
