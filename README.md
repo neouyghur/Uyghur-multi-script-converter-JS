@@ -16,7 +16,7 @@ Python, PHP version of this project:
 
 https://github.com/neouyghur/Multiple-Uyghur-Script-Converter
 
-Php version is written by Mr. Kenji.
+Php version is written by @kawichi.
 
 
 ## Screen shots
