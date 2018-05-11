@@ -1,4 +1,4 @@
-function izip(list, values) {
+/*function izip(list, values) {
   if (list == null) return {};
   var result = {};
   for (var i = 0, l = list.length; i < l; i++) {
@@ -9,7 +9,12 @@ function izip(list, values) {
     }
   }
   return result;
+}*/
+
+function izip(list, values) {
+  	return  list.reduce((accumulator, value, index) => (accumulator[value] = values[index], accumulator), {});
 }
+
 
 // UAS to CTS
 function UAA2CTA(text)
