@@ -1,6 +1,6 @@
 # Uyghur-multi-script-converter-JS
 
-This script can covert several scripts of Uyghur language: 
+This java script can covert several scripts of Uyghur language: 
 
     1.Uyghur Arabic script 
     2.Uyghur Latin script
